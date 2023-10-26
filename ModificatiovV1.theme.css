@@ -194,7 +194,7 @@
   --reaction-emoji-hover-border-color: rgba(255, 255, 255, 0.2);
 }
 
-.item-2LIpTv {
+.item_f9d377 {
   border: 0px;
   border-radius: 0 4px 4px 0;
   top: 20px;
@@ -205,7 +205,7 @@
 
 }
 
-.item-2LIpTv:not([style="height: 8px"]):not([style="height: 20px"]) {
+.item_f9d377:not([style="height: 8px"]):not([style="height: 20px"]) {
   top: 4px;
   height: 40px !important;
 }
